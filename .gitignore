@@ -1,0 +1,15 @@
+.wrangler/
+.dev.vars
+.dev.vars.*
+.env
+.env.*
+!.env.example
+wrangler.toml
+node_modules/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.sql.gz
+.DS_Store
+Thumbs.db

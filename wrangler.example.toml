@@ -1,0 +1,8 @@
+name = "beileme"
+compatibility_date = "2026-10-21"
+pages_build_output_dir = "site"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "beileme-db"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
